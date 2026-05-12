@@ -1,0 +1,1 @@
+This project uses Python to perform sentiment analysis on customer reviews. The program reads review data from a CSV file, calculates sentiment scores, classifies reviews as positive, negative, or neutral, and saves the results to a new file.  Language used: Python Libraries used: pandas, nltk
